@@ -3,7 +3,7 @@ Object Oriented Program Design Semester 1, 2017
 
 ## Hello stranger 
 
-Hello there, I'm assuming you're either having a browser of my projects or a student from Curtin University which is a pro googler and found this repo, well this is your lucky day cause here you go, full assignment.
+Hello there, I'm assuming you're either having a browse of my projects or a student from Curtin University which is a pro googler and found this repo, well this is your lucky day cause here you go, full assignment.
 
 ## Warnings
 
